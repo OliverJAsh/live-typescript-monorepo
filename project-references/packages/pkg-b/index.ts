@@ -1,4 +1,4 @@
-import { Fish } from "pkg-a";
+import { Fish } from "pkg-a/index";
 
 export const wanda = new Fish("Wanda");
 
